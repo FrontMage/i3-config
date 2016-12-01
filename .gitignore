@@ -6,9 +6,7 @@ gnore everything
 !.vimrc
 !cleanQQ.sh
 !.zshrc
-!.i3/config
-!.i3/config.keycodes
-!.i3/randomWallpaper.sh
+!.i3/
 # etc...
 
 # ...even if they are in subdirectories
