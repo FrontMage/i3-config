@@ -6,7 +6,7 @@ gnore everything
 !.vimrc
 !cleanQQ.sh
 !.zshrc
-!.i3/
+!.i3
 # etc...
 
 # ...even if they are in subdirectories
