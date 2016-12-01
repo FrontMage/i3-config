@@ -1,0 +1,12 @@
+gnore everything
+*
+
+# But not these files...
+!.gitignore
+!.vimrc
+!cleanQQ.sh
+!.zshrc
+# etc...
+
+# ...even if they are in subdirectories
+# !*/
