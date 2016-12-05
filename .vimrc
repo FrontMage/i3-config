@@ -32,6 +32,8 @@ Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'easymotion/vim-easymotion'
 Plugin 'pangloss/vim-javascript'
 Plugin 'skywind3000/asyncrun.vim'
+Plugin 'tpope/vim-fugitive'
+Plugin 'moll/vim-node'
 
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
@@ -135,7 +137,7 @@ let g:airline_symbols.branch = ''
 let g:airline_symbols.readonly = ''
 let g:airline_symbols.linenr = ''
 
-set guifont=Source\ Code\ Pro\ for\ Powerline
+set guifont=Source\ Code\ Pro\ for\ Powerline\ 14
 set encoding=utf-8"
 
 " commentary settings

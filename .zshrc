@@ -88,11 +88,16 @@ ZSH_THEME="agnoster"
 
 # aliases
 alias work="cd ~/Documents/workspace"
+alias hb="cd ~/Documents/workspace/web-hangban"
 alias vimconfig="vim ~/.vimrc"
 alias zshconfig="vim ~/.zshrc"
 alias wechat="cd /home/xbg/Downloads/electronic-wechat && npm start"
 alias charles="cd /home/xbg/Downloads/charles/bin/ && ./charles"
 alias vim="/home/xbg/Downloads/vim/src/vim8"
+alias gl="git log --oneline --graph --color --all --decorate"
+alias rs="reset"
+alias gs="gulp serve"
+alias rszsh="source ~/.zshrc"
 
 # golang path settings
 export PATH=$PATH:/usr/local/go/bin
