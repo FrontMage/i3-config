@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Daemon
+Exec=gnome-screensaver
+Hidden=true
+X-GNOME-Autostart-enabled=true
+Name=gnome-screensaver
+Comment=screen saver
