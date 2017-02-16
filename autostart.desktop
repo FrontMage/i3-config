@@ -1,3 +1,4 @@
+# ~/.config/autostart/autostart.desktop
 [Desktop Entry]
 Type=Daemon
 Exec=gnome-screensaver
